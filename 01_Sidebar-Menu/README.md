@@ -27,8 +27,8 @@ The sidebar can be opened and closed using a hamburger menu and includes navigat
 ## How to Run
 
 1. Clone the repository.
-2. Open the `Sidebar-Menu` folder.
-3. Open `index.html` in VS code and click **Go Live** using Live  Server extension 
+2. Open the `01_Sidebar-Menu` folder.
+3. Open `01_index.html` in VS code and click **Go Live** using Live  Server extension 
 4. Click the hamburger icon to open the sidebar.
 
 ## Concepts Practiced
