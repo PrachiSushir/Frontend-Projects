@@ -9,7 +9,7 @@ This repository documents my frontend development journey through practical proj
 | No. | Project | Technologies |
 |-----|---------|--------------|
 | 01 | [Sidebar Menu](./01_Sidebar-Menu) | HTML, CSS |
-| 02 |[spotify clone]|
+
 More projects will be added as I continue learning and building.
 
 ## Technologies
