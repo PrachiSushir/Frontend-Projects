@@ -25,7 +25,7 @@ The sidebar can be opened and closed using a hamburger menu and includes navigat
 
 ## Preview
 
-[Sidebar Menu Preview](project-preview.png)
+![Sidebar Menu Preview](project-preview.png)
 
 ## How to Run
 
