@@ -9,30 +9,20 @@ This repository documents my frontend development journey through practical proj
 | No. | Project | Technologies |
 |-----|---------|--------------|
 | 01 | [Sidebar Menu](./01_Sidebar-Menu) | HTML, CSS |
-
+| 02 |[spotify clone]|
 More projects will be added as I continue learning and building.
 
 ## Technologies
 
 The projects in this repository may include:
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Bootstrap
+- React
+  
+## External Resources
+ 
 - Font Awesome
 - Google Fonts
-
-## Repository Structure
-
-```text
-Frontend-Projects/
-│
-├── 01_Sidebar-Menu/
-│   ├── 01_index.html
-│   ├── 02_style.css
-│   ├── 03_photo.jpg
-│   ├── project-preview.png
-│   └── README.md
-│
-└── README.md
